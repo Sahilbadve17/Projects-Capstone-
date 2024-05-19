@@ -1,5 +1,5 @@
 💫 About Me:
-Hi there! 👋<br><br>I'm Sahil Badve, and I'm diving into the world of Data Science! Currently, I'm learning about machine learning, data analysis, and data visualization with Python. <br><br>I'm looking to collaborate with:<br>- Experienced data scientists<br>- Other learners interested in data projects<br>- Open-source contributors<br><br>Reach out if you'd like to work together on cool projects or share knowledge.<br><br> Fun Fact 🧠<br>I love [insert your hobby or fun activity], which keeps me energized while learning data science. 😄<br><br>Thanks for visiting my profile! Feel free to explore my repos and connect with me.<br><br><br><br>
+Hi there! 👋<br><br>I'm Sahil Badve, and I'm diving into the world of Data Science! Currently, I'm learning about machine learning, data analysis, and data visualization with Python. <br><br>I'm looking to collaborate with:<br>- Experienced data scientists<br>- Other learners interested in data projects<br>- Open-source contributors<br><br>Reach out if you'd like to work together on cool projects or share knowledge.<br><br> Fun Fact 🧠<br>I love playing with the data , which keeps me energized while learning data science. 😄<br><br>Thanks for visiting my profile! Feel free to explore my repos and connect with me.<br><br><br><br>
 
 
 ## 🌐 Socials:
